@@ -1,0 +1,83 @@
+file changes 
+super admin header 
+<?php 
+        $fModules = getLeftBarModule('1'); 
+        if(!empty($fModules)){
+          foreach ($fModules as $fmodule) {?>
+            <li class="treeview">
+              <a href="<?php if(!empty($smodule->url)){ echo ADMIN_THEAM_PATH.$smodule->url;}else{echo 'javascript:void(0);';}?>"> 
+                <?php 
+                if(!empty($fmodule->icon)){ echo $fmodule->icon;}
+                elseif(!empty($fmodule->image)&&file_exists('assets/uploads/admin/'.$fmodule->image)){ 
+                  echo '<img src="'.base_url().'assets/uploads/admin/'.$fmodule->image.'" class="icon_log"/>';
+                } ?> 
+                <span>
+                  <?php if(!empty($fmodule->title)) echo $fmodule->title; ?>                    
+                </span>
+                <span class="pull-right-container">            
+                  <i class="fa fa-angle-left pull-right"></i>
+                </span>
+              </a>
+              <?php  
+                $sModules = getLeftBarModule('2', $fmodule->id);
+                if(!empty($sModules)){?>
+                  <ul class="treeview-menu">
+                    <?php foreach ($sModules as $smodule) { ?>
+                      <li class="treeview"><a href="<?php if(!empty($smodule->url)){ echo ADMIN_THEAM_PATH.$smodule->url;}else{echo 'javascript:void(0);';}?>">
+                        <?php 
+                          if(!empty($smodule->icon)){ echo $smodule->icon;}
+                          elseif(!empty($smodule->image)&&file_exists('assets/uploads/admin/'.$smodule->image)){ 
+                            echo '<img src="'.base_url().'assets/uploads/admin/'.$smodule->image.'" class="icon_log"/>';
+                          } ?> 
+                          <span>                         
+                            <?php if(!empty($smodule->title)) echo $smodule->title; ?>
+                          </span>
+                          <?php 
+                          $thModules = getLeftBarModule('3', null, $smodule->id);
+                          if(!empty($thModules)){?> 
+                            <span class="pull-right-container">            
+                              <i class="fa fa-angle-left pull-right"></i>
+                            </span> 
+                          <?php }?>                      
+                        </a>
+                        <?php                          
+                        if(!empty($thModules)){?>
+                          <ul class="treeview-menu">
+                            <?php foreach ($thModules as $thModule) { ?>
+                              <li><a href="<?php if(!empty($thModule->url)){ echo ADMIN_THEAM_PATH.$thModule->url;}else{echo 'javascript:void(0);';}?>">
+                                <?php 
+                                  if(!empty($thModule->icon)){ echo $thModule->icon;}
+                                  elseif(!empty($thModule->image)&&file_exists('assets/uploads/admin/'.$thModule->image)){ 
+                                    echo '<img src="'.base_url().'assets/uploads/admin/'.$thModule->image.'" class="icon_log"/>';
+                                  } ?> 
+                                  <span>
+                                    <?php if(!empty($thModule->title)) echo $thModule->title; ?>
+                                  </span>                        
+                                </a>
+                              </li>
+                            <?php }?>
+                          </ul>
+                      <?php }?>
+                      </li>
+                    <?php }?>
+                  </ul>
+              <?php }?>
+            </li>  
+          <?php }
+        }
+        ?>  
+common helper 
+/*get Left Bar Module*/
+if ( ! function_exists('getLeftBarModule')) {
+    function getLeftBarModule($type='',$category='',$subcategory=''){
+        $CI =& get_instance();
+        $whereA = array('status'=>1, 'left_bar_show'=>1, 'type'=>$type);
+        if(!empty($category)){
+        	$whereA['category_id'] = $category;
+        }
+        if(!empty($subcategory)){
+        	$whereA['sub_category_id'] = $subcategory;
+        }
+        return $CI->common_model->get_result('ad_module_main', $whereA); 
+    }
+} 

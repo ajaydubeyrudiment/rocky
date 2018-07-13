@@ -1,0 +1,193 @@
+.js_main_validate{position: relative;}
+#signup_username_sucess_icon, #signup_email_sucess_icon, #signup_password_sucess_icon{display: none;}
+.available {position: absolute;right: 7px;top: 10px;color: green;}
+.unavailable {position: absolute;right: 7px;top: 10px;color: red;}
+.height_main .select-options{max-height: 237px;overflow-y: scroll;} 
+.receipe_img {    width: 146px;border: 1px solid #1BBDB0;padding: 2px;margin: 15px;height: 146px;border-radius: 5px;}
+.recepemainImg {float: left;position: relative;}
+.deleteReceipeImg {   position: absolute;top: 0px;right: 2px;color: red;font-size: 21px;   }
+.note-msg font {color: #2196F3;}
+/*new pages styles*/
+/*blog page css*/
+.blog {padding: 3em 13em;}
+/*create diet plan*/
+body .wrapper .feed .feed_right .goal_setter .create_workout {background-color: #f1f1f1;color: #000;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered {margin: 0;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered.width_create_diet tr th {width: auto;text-align: left;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered.width_create_diet tr td {text-align: left;width: auto;vertical-align: middle;position: relative;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr td input {border-radius: 0;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr td input:focus {outline: 0;box-shadow: none;border-color: #000;}
+body .wrapper .feed .feed_right .goal_setter .create_workout ul {margin: 0;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered.width_create_diet tr td a {color:#000;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered.width_create_diet tr td ul {margin: 0 auto !important;text-align: center;left: 0;width: 100%;} 
+body .wrapper .width_create_diet .dropdown-toggle.profile_pic_a span.caret {display: inline-block;}
+/*creat goal*/
+body .wrapper .feed .feed_right .goal_setter a.create_new_goal {background-color: #1bbdb0;border:none;border-radius: 0px;    border: 2px solid transparent;}
+body .wrapper .feed .feed_right .goal_setter a.create_new_goal:hover {background-color: transparent;border: 2px solid #000;color: #000;}
+body .wrapper .feed .feed_right .goal_setter a.create_new_goal:focus {outline: 0;background-color: transparent;border: 2px solid #000;color: #000;}
+.check_lose.check_lose10 .checkbox.checkbox-success {margin: 0px 20px;}
+.check_lose.check_lose10 label {padding-left: 30px;}
+.check_lose.check_lose10 label.client_c {padding-left: 9px;}
+/*create work out plan*/
+body .wrapper .feed .feed_right .goal_setter .create_workout {background-color: #f1f1f1;color: #000;margin: 0 0 20px;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered {margin: 0;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr th {width: auto;text-align: left;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr td {text-align: left;width: auto;border:none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr td input {    border-radius: 0;width: 30%;font-size: 12px;border: none;}
+body .wrapper .feed .feed_right .goal_setter .create_workout .table.table-bordered tr td input:focus {outline: 0;box-shadow: none;border-color: #000;}
+body .wrapper .feed .feed_right .goal_setter .create_workout ul {margin: 0;}
+/*diet plan */
+.select_nutrition label.plans {position: relative;font-size: 19px;font-weight: 500;padding: 0 0em;color: #8e8e8e;margin: 0;}
+.select_nutrition label.plans img {width: 70px;height: 70px;float: left;margin-right: 25px;}
+.select_nutrition label.plans i {color: #000;font-size: 14px;}
+.select_nutrition label.plans span {display: block;font-size: 17px;font-weight: 600;line-height: 2;}
+.select_nutrition label.plans span strong {color: #808080;    font-weight: 400;font-size: 16px;    padding: 0 8px;}
+.select_nutrition input[type=checkbox].planss {display: none;}
+.select_nutrition input.planss:checked + label.plans {    color: #1bbdb0;position: relative;font-size: 19px;font-weight: 500;padding: 0 0;}
+.select_nutrition input.planss:checked + label.plans img {width: 70px;height: 70px;float: left;margin-right: 25px;}
+.select_nutrition input.planss:checked + label.plans span {display: block;font-size: 17px;font-weight: 600;line-height: 2;}
+.select_nutrition input.planss:checked + label.plans span strong {    color: #808080;font-weight: 400;font-size: 16px;padding: 0 8px;}
+.select_nutrition input.planss:checked + label.plans:before {content: "\2713 ";position: absolute;left: 78px;}
+.check {visibility: hidden;}
+.select_nutrition input.planss:checked + label.plans .check {visibility: visible;}
+.select_nutrition input.planss.checkbox:checked + label.plans:before {content: "";}
+.select_nutrition .media.nutrition .media-body {position: relative;}
+.select_nutrition .media.nutrition .media-body i {    position: absolute;right: 0;top: 8px;cursor: pointer;z-index: 1;}
+.select_nutrition .media.nutrition {margin: 0 0em 0em;}
+.workout_set h4.c15 {background-color: #1bbdb0;padding: 9px 14px;margin: 0 1em 1em;color: #fff;cursor: pointer;}
+.c150 {display: none;margin: 0 2em 1em 2em;}
+.c160 {display: none;margin: 0 0 1em;}
+.workout_set h4.c16 {background-color: #1bbdb0;padding: 9px 14px;margin: 0 1em 1em;color: #fff;cursor: pointer;}
+/*diet plan low carb*/
+body .wrapper .feed .feed_right .goal_setter .metrics_date {font-size: 14px;font-weight: 400;color: #adadad;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb h4 a {    background-color: #1bbdb0;display: block;padding: 11px 23px;text-decoration: none;color: #fff;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb .panel-body.diet_plan_low table {text-align: center;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb .panel-body.diet_plan_low table tr td a.editt {background-color: #000;color: #fff;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb .panel-body.diet_plan_low table tr td a.verify {background-color: #1bbdb0;color: #fff;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb .panel-body.diet_plan_low {padding: 0;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb .panel-body.diet_plan_low table thead tr th{text-align: left;}
+/*diet plan select */
+body .wrapper .feed .feed_right .goal_setter .media.nutrition .media-left {padding: 0;}
+      body .wrapper .feed .feed_right .goal_setter .media.nutrition .media-left a img {width: 70px;height: 70px;object-fit: cover;float: left;margin-right: 8px;}
+body .wrapper .feed .feed_right .goal_setter .media.nutrition h4 a {color: #1bbdb0;text-decoration: none;}
+body .wrapper .feed .feed_right .goal_setter .media.nutrition p {font-weight: 500;}
+body .wrapper .feed .feed_right .goal_setter .select_nutrition {margin: 0 0 15px;}
+.information_fruits img {    width: auto;margin: 0 auto;display: block;} 
+.information_fruits_content p {font-weight: 400;line-height: 1.5;} 
+.information_fruits_content ul {padding: 0 2em;}
+.information_fruits_content ul li {list-style-type: none;line-height: 2;position: relative;}
+.information_fruits_content ul li:before {position: absolute;content: "\f00c";font-family: fontAwesome;color: #1bbdb0;left: -25px;font-size: 15px;top: -2px;}
+.select_nutrition label.plans {position: relative;font-size: 19px;font-weight: 500;padding: 0em 1em;color: #8e8e8e;text-align: left;display: block;width: 100%;}
+.select_nutrition label.plans i {color: #000;font-size: 14px;}
+.select_nutrition label.plans span {display: flex;font-size: 14px;font-weight: 600;line-height: 1.5;}
+.select_nutrition label.plans span strong {color: #808080;    font-weight: 400;font-size: 14px;    padding: 0 8px;}
+.select_nutrition input[type=checkbox].planss {display: none;}
+.select_nutrition input.planss:checked + label.plans {    color: #1bbdb0;position: relative;font-size: 19px;font-weight: 500;padding: 0 1em;width: 100%;}
+.select_nutrition input.planss:checked + label.plans span {    display: flex;font-size: 14px;font-weight: 600;line-height: 1.5;}
+.select_nutrition input.planss:checked + label.plans span strong {    color: #808080;font-weight: 400;font-size: 14px;padding: 0 8px;}
+.select_nutrition input.planss:checked + label.plans:before {    content: "\2713 ";position: absolute;left: 0px;right: 30%;margin: 0 auto;display: block;}
+.check {visibility: hidden;}
+.select_nutrition input.planss:checked + label.plans .check {visibility: visible;}
+.select_nutrition input.planss.checkbox:checked + label.plans:before {content: "";}
+.select_nutrition .media-body {position: relative;}
+.select_nutrition .media-body i {position: absolute;right: 0;top: 8px;cursor: pointer;}
+.select_nutrition label.plans .foody img {    width: 70px;height: 70px;float: left;margin-right: 25px;}
+.select_nutrition input.planss:checked + label.plans img {width: 70px;height: 70px;float: left;margin-right: 25px;}
+/*metrics tracker */
+body .wrapper .feed .feed_right .goal_setter .metrics_date {font-size: 14px;font-weight: 400;color: #adadad;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default.title_low_carb h4 a {    background-color: #1bbdb0;display: block;padding: 11px 23px;text-decoration: none;color: #fff;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker {padding: 0 15px; }
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker label {text-align: left !important;        padding: 7px 0px;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker input {margin: 10px 0;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker select {margin: 10px 0;height: 37px;border-radius: 0;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker select:focus {border-color:#1bbdb0;box-shadow: 0;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker .form-group {margin-bottom: 0;}
+body .wrapper .feed .feed_right .goal_setter .panel.panel-default .metrics_tracker .mtracker {padding-left: 10px;padding-right: 44px; }
+/*prviewus diet plan*/
+ body .wrapper .feed .feed_right .goal_setter .previous_diet {    background-color: #1bbdb0;padding: 10px;color: #fff;margin: 15px 0px;height: 200px !important;overflow: auto;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet p {margin: 0 0 0;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet h4 {font-size: 21px;margin: 0 0 12px;font-weight: 300;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet label.plans {display: block;width: 100%;-webkit-font-smoothing: antialiased;color: #fff;text-align: left;cursor: pointer;margin-left: 16px;font-size: 19px;font-weight: 400;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet input[type=checkbox].planss {display: none;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet input.planss:checked + label.plans {color: #05756c;position: relative;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet input.planss:checked + label.plans:before {content: "\2713 ";position: absolute;left: -17px;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet ul {margin: 0;padding: 0;}
+body .wrapper .feed .feed_right .goal_setter .previous_diet ul li a {color: #fff;}
+/*user profile view */
+.images_user_view img {width: 100%;min-height: 100vh;object-fit: cover;}
+.user_image_detail .modal-body{/*min-height: 90vh;*/position: relative;}
+.user_image_detail .modal-body span.cross {    position: absolute;top: -3px;right: 4px;color: #000;cursor: pointer;font-size: 20px;font-weight: 100;}
+.images_user_view_content {padding-left: 15px;padding-top: 1em;}
+.images_user_view_content .username img {width: 90px;height: 90px;object-fit: cover;float: left;margin-right: 8px;}
+.images_user_view_content .username_content {padding-top: 3px;}
+.images_user_view_content .username_content p {padding: 5px;font-weight: 400;font-size: 12px;}
+.images_user_view_content .profile_status ul {text-align: center;padding: 8px 0 0;}   
+.images_user_view_content .profile_status ul li a {text-decoration: none;color: #000;}
+.images_user_view_content .username .follow button {background-color: transparent;border: 2px solid #1bbdb0;font-weight: 500;margin: 9px 0 0px;width: 150px;}
+.images_user_view_content .username .likess p {margin: 5px auto 0;text-align: center;    font-weight: 500;}
+.images_user_view_content .username .likess p i {color:#1bbdb0;}
+.images_user_view_content .username .bookmark_comment {border-top: 1px solid #ddd;padding: 6px 8px 0;margin: 6px 0 0;border-bottom: 1px solid #ddd;}
+/*.images_user_view_content .username .bookmark_comment p span {cursor: pointer;font-weight: 500;font-size: 12px;} 
+.images_user_view_content .username .bookmark_comment p span i {color:#1bbdb0;}
+*/.images_user_view_content .comments_tread .media .media-left a img {    width: 40px;height: 40px;object-fit: cover;border-radius: 50pc;}
+.images_user_view_content .username .bookmark_comment ul {text-align: center;}
+.images_user_view_content .username .bookmark_comment ul li {}
+.images_user_view_content .username .bookmark_comment ul li a {    text-decoration: none;color: #333;font-weight: 500;font-size: 13px;}
+.images_user_view_content .username .bookmark_comment ul li a i {color:#1bbdb0;}
+.images_user_view_content .comments_tread { overflow: auto;margin: 0 0 30px; height: 34vh;}
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.images_user_view_content .comments_tread {  height: 38vh;}
+}
+.username .describe {min-height: 10vh;height: 10vh;overflow: auto;display: block;    margin: 10px 0 0;}
+.images_user_view_content .comments_tread .media {    padding: 10px 0 10px;margin: 0;border-bottom: 1px solid #ddd;}
+.images_user_view_content .comments_tread .media .media-body {position: relative;}
+.images_user_view_content .comments_tread .media .media-body p { margin: 0px 0px 0;font-weight: 400;font-size: 13px;}
+.images_user_view_content .comments_tread .media .media-body h4 {    margin: 0px 0px 0;font-weight: 600;font-size: 13px;}
+.images_user_view_content .comments_tread .media .media-body span {    position: absolute;font-size: 8px;right: 9px;top: 0;font-weight: 600;color: #b7b7b7;}
+.images_user_view_content .comment_box .form-group {margin: 0;} 
+.images_user_view_content .comment_box .input-group a.input-group-addon {background-color: #1bbdb0;}
+.images_user_view_content .comment_box .input-group a.input-group-addon i {color: #fff;    border: 1px solid #1bbdb}
+.images_user_view_content .comment_box .input-group textarea {color: #1bbdb0;}
+.images_user_view_content .comment_box .input-group textarea::placeholder {color: #1bbdb0;}
+.images_user_view_content .comment_box .input-group textarea:focus{border-color:#1bbdb0;box-shadow: none;}
+.images_user_view.recipie_discription img {/*min-height: 30vh;*/object-fit: cover;}
+.images_user_view.recipie_discription .ingredients {padding: 0 14px;height: 38vh;overflow: auto;}
+.images_user_view.recipie_discription .ingredients ul li {width: 32%;position: relative;font-size: 12px;font-weight: 500;line-height: 1.8;}
+.images_user_view.recipie_discription .ingredients ul li::before {content: "\f00c";position: absolute;left: -9px;color: green;font-family: fontAwesome;}
+.images_user_view.recipie_discription .title_recipe {background-color: #15c2b6;padding: 11px 3em;font-size: 16px;font-weight: 300;color: #fff;text-align: center;}
+.images_user_view.recipie_discription .title_recipe p {padding: 4px 1em 0;}
+.images_user_view.recipie_discription .ingredients h5 {position: relative;margin: 4px 0 10px;font-weight: 600;}
+
+
+.slider-arrow .right .glyphicon {line-height: 2;}
+.slider-arrow .left .glyphicon {line-height: 2;}
+
+.images_user_view.recipie_discription .title_recipe p {padding:0 10px; }
+
+
+.images_user_view.recipie_discription .ingredients h5::before {content: "";position: absolute;width: 5px;height: 20px;background-color: #15c2b6;left: -11px;top: -3px;}
+.images_user_view.recipie_instruction {height: 47vh;overflow: auto;}
+.images_user_view.recipie_instruction h5.ins {    position: relative;margin: 9px 6px 10px;font-weight: 600;padding: 0 15px;}
+.images_user_view.recipie_instruction h5.ins::before {content: "";position: absolute;width: 5px;height: 20px;background-color: #15c2b6;left: 0;top: -3px;}
+.images_user_view.recipie_instruction p {padding:0 1em; }
+.images_user_view.recipie_instruction .media .media-left {width: 10%;}
+.images_user_view.recipie_instruc
+/*copy plan */
+body .wrapper .feed .feed_right .user_search .username_images_user {text-decoration: none;}
+body .wrapper .feed .feed_right .user_search .username_images_user img {    min-height: 150px;width: 100%; margin: 0 0 0em;}
+body .wrapper .feed .feed_right .user_search .username_images_user h4 {    margin: 8px auto 5px;text-align: center;font-weight: 500;font-size: 17px;color: #000;}
+body .wrapper .feed .feed_right .user_search .row {padding-top: 6px;padding-left: 8px;padding-right: 8px;}
+body .wrapper .feed .feed_right .user_search h2 {font-weight: 400;font-size: 19px;color: #15c1b6;}
+.auto-diet-box{box-shadow: 0 0 10px #C3C3C3;padding: 20px;margin: 10px;}
+.auto-diet-box ul li {width: 48%;display: inline-block;}
+.circlesa .circle {height: 10px;width: 10px;background-color: #555;border-radius: 50%;float: left;margin: 2px;}
+.circlesa{position: absolute;bottom: 5px;width: 100%;left: 42%;}
+.listssD li{ padding-right: 0px !important;  padding-left: 0px !important; }
+.hiddenPlan{ display: none; }
+.blog_picture .blog_1 {
+  /*  height: 152px !important;*/
+}
+.diat-pic{ float:left;  float:left; width:80px;}
+.diat-title{ float:left;     width: calc(100% - 80px); padding-left:10px;}
+.comment-box-blog{  float:left; min-height:80px; width:100%;}
+.tab-link{ padding-right:78px !important; padding-left:78px !important;}

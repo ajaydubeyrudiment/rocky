@@ -1,0 +1,861 @@
+[13-Nov-2017 11:30:51 UTC] PHP Parse error:  syntax error, unexpected '$mail_from_name' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:30:51 UTC] PHP Parse error:  syntax error, unexpected '$mail_from_name' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:30:51 UTC] PHP Parse error:  syntax error, unexpected '$mail_from_name' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:33:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:33:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:37:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:37:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 11:37:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 103
+[13-Nov-2017 12:10:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/templates/email/email_template.php on line 110
+[13-Nov-2017 13:07:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 390
+[13-Nov-2017 13:18:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[13-Nov-2017 13:18:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[13-Nov-2017 13:18:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[13-Nov-2017 14:32:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 245
+[15-Nov-2017 13:35:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 27
+[15-Nov-2017 13:36:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 27
+[15-Nov-2017 13:36:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 27
+[15-Nov-2017 13:36:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 27
+[16-Nov-2017 07:34:36 UTC] PHP Parse error:  syntax error, unexpected '$strhtml' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 325
+[16-Nov-2017 07:34:37 UTC] PHP Parse error:  syntax error, unexpected '$strhtml' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 325
+[16-Nov-2017 07:35:24 UTC] PHP Parse error:  syntax error, unexpected '$strhtml' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 325
+[16-Nov-2017 09:28:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/add_recipe.php on line 30
+[16-Nov-2017 14:28:49 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:49 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:49 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:49 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:50 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:50 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:50 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:50 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:58 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:58 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:58 UTC] PHP Warning:  include(/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[16-Nov-2017 14:28:58 UTC] PHP Warning:  include(): Failed opening '/home/rudiment/public_html/rokApe/dev/application//errors/html/error_php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rudiment/public_html/rokApe/dev/system/core/Exceptions.php on line 268
+[22-Dec-2017 08:15:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 322
+[22-Dec-2017 10:04:11 UTC] PHP Parse error:  syntax error, unexpected ''dateofbirth'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 153
+[22-Dec-2017 11:28:06 UTC] PHP Fatal error:  Cannot redeclare User::user_image_check() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 187
+[22-Dec-2017 11:30:09 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 132
+[22-Dec-2017 11:30:11 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 132
+[25-Dec-2017 14:01:37 UTC] PHP Fatal error:  Call to undefined method Common_model::getUserDetails() in /home/rudiment/public_html/rokApe/dev/application/helpers/common_helper.php on line 95
+[25-Dec-2017 14:01:39 UTC] PHP Fatal error:  Call to undefined method Common_model::getUserDetails() in /home/rudiment/public_html/rokApe/dev/application/helpers/common_helper.php on line 95
+[25-Dec-2017 14:15:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 81
+[26-Dec-2017 11:15:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/result_listing.php on line 5
+[26-Dec-2017 11:15:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/result_listing.php on line 5
+[04-Jan-2018 11:50:06 UTC] PHP Parse error:  syntax error, unexpected ''commentCounter'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 575
+[04-Jan-2018 11:52:29 UTC] PHP Parse error:  syntax error, unexpected ''commentCounter'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 576
+[04-Jan-2018 11:52:52 UTC] PHP Parse error:  syntax error, unexpected ''commentCounter'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 576
+[04-Jan-2018 12:04:59 UTC] PHP Parse error:  syntax error, unexpected ''commentCounter'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 577
+[04-Jan-2018 12:06:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/postComments.php on line 18
+[04-Jan-2018 12:06:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/postComments.php on line 18
+[04-Jan-2018 12:07:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/postComments.php on line 18
+[04-Jan-2018 12:08:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/postComments.php on line 18
+[04-Jan-2018 12:09:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/postComments.php on line 18
+[06-Jan-2018 13:13:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 441
+[16-Jan-2018 14:36:37 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[16-Jan-2018 14:36:40 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[17-Jan-2018 05:17:02 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[17-Jan-2018 05:17:06 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[17-Jan-2018 05:23:11 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[17-Jan-2018 05:23:13 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/rudiment/public_html/rokApe/dev/application/libraries/REST_Controller.php on line 17
+[22-Jan-2018 06:56:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/system/libraries/Form_validation.php on line 461
+[22-Jan-2018 06:56:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/system/libraries/Form_validation.php on line 461
+[22-Jan-2018 06:56:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/system/libraries/Form_validation.php on line 461
+[22-Jan-2018 08:14:39 UTC] PHP Fatal error:  Call to undefined method Common_model::result() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 167
+[22-Jan-2018 11:54:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 110
+[22-Jan-2018 11:56:05 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 110
+[22-Jan-2018 11:56:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 110
+[23-Jan-2018 07:42:24 UTC] PHP Parse error:  syntax error, unexpected ''FollowersCount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 618
+[23-Jan-2018 08:13:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 517
+[23-Jan-2018 13:17:08 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 171
+[23-Jan-2018 13:17:10 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 171
+[23-Jan-2018 13:36:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:37:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 82
+[23-Jan-2018 13:37:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 82
+[23-Jan-2018 13:38:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 82
+[23-Jan-2018 13:38:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 82
+[23-Jan-2018 13:38:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 252
+[23-Jan-2018 13:38:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:38:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:38:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:38:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:38:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:39:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:39:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 422
+[23-Jan-2018 13:40:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 421
+[23-Jan-2018 13:40:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 421
+[23-Jan-2018 13:41:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 421
+[23-Jan-2018 13:41:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:41:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:42:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:42:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[23-Jan-2018 13:43:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 415
+[24-Jan-2018 07:18:15 UTC] PHP Fatal error:  Call to undefined function admin_pagination() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Post.php on line 14
+[24-Jan-2018 07:21:17 UTC] PHP Fatal error:  Call to undefined function admin_pagination() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Post.php on line 14
+[24-Jan-2018 07:56:11 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 3
+[24-Jan-2018 07:56:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 3
+[24-Jan-2018 07:56:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 3
+[24-Jan-2018 07:56:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 3
+[24-Jan-2018 07:57:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 3
+[24-Jan-2018 07:58:37 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 11
+[24-Jan-2018 07:58:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 11
+[24-Jan-2018 07:58:40 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 11
+[24-Jan-2018 07:58:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 11
+[24-Jan-2018 07:59:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 18
+[24-Jan-2018 07:59:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 18
+[24-Jan-2018 07:59:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 18
+[24-Jan-2018 07:59:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 18
+[24-Jan-2018 07:59:51 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 19
+[24-Jan-2018 07:59:52 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 19
+[24-Jan-2018 07:59:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 19
+[24-Jan-2018 08:00:16 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 20
+[24-Jan-2018 08:00:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 20
+[24-Jan-2018 08:00:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 20
+[24-Jan-2018 08:00:18 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 20
+[24-Jan-2018 08:00:40 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 166
+[24-Jan-2018 08:00:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 166
+[24-Jan-2018 08:00:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/post/post.php on line 166
+[24-Jan-2018 12:41:01 UTC] PHP Fatal error:  Call to undefined method Developer_model::getHeight() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Height.php on line 22
+[24-Jan-2018 12:41:04 UTC] PHP Fatal error:  Call to undefined method Developer_model::getHeight() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Height.php on line 22
+[24-Jan-2018 12:41:16 UTC] PHP Fatal error:  Call to undefined method Developer_model::getHeight() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Height.php on line 22
+[24-Jan-2018 12:41:18 UTC] PHP Fatal error:  Call to undefined method Developer_model::getHeight() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Height.php on line 22
+[24-Jan-2018 12:58:08 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 12:58:11 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:02:25 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:03:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:03:25 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:03:28 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:07:41 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:10:07 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:10:08 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:12 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:13 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:14 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:15 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:15 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:23 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:25 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:28 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:29 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:30 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:30 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:12:31 UTC] PHP Fatal error:  Unsupported operand types in /home/rudiment/public_html/rokApe/dev/system/libraries/Pagination.php on line 409
+[24-Jan-2018 13:53:23 UTC] PHP Fatal error:  Call to undefined method Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Plan.php on line 22
+[24-Jan-2018 14:00:11 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[24-Jan-2018 14:00:14 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[24-Jan-2018 14:00:15 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[24-Jan-2018 14:00:16 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[24-Jan-2018 14:00:17 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[24-Jan-2018 14:00:19 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getPlan() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 448
+[25-Jan-2018 07:43:08 UTC] PHP Parse error:  syntax error, unexpected '$responseCode' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 199
+[25-Jan-2018 07:43:09 UTC] PHP Parse error:  syntax error, unexpected '$responseCode' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 199
+[25-Jan-2018 07:43:11 UTC] PHP Parse error:  syntax error, unexpected '$responseCode' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 199
+[25-Jan-2018 08:02:28 UTC] PHP Parse error:  syntax error, unexpected ''amount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 205
+[25-Jan-2018 08:02:29 UTC] PHP Parse error:  syntax error, unexpected ''amount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 205
+[25-Jan-2018 10:15:33 UTC] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 205
+[25-Jan-2018 10:15:35 UTC] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 205
+[25-Jan-2018 11:47:13 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:47:16 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:56:21 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:57:30 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:58:56 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:59:46 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 11:59:51 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 12:00:00 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 12:00:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 500
+[25-Jan-2018 14:31:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 57
+[25-Jan-2018 14:31:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 61
+[25-Jan-2018 14:31:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 61
+[25-Jan-2018 14:31:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 61
+[25-Jan-2018 14:31:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 63
+[25-Jan-2018 14:31:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 63
+[25-Jan-2018 14:31:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 63
+[25-Jan-2018 14:32:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 71
+[25-Jan-2018 14:32:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 71
+[25-Jan-2018 14:32:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 71
+[29-Jan-2018 08:01:20 UTC] PHP Fatal error:  Call to undefined method Developer_model::get_row() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 865
+[29-Jan-2018 08:03:24 UTC] PHP Fatal error:  Call to undefined method Developer_model::get_row() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 865
+[29-Jan-2018 11:41:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 392
+[29-Jan-2018 12:43:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 299
+[30-Jan-2018 06:09:11 UTC] PHP Fatal error:  Cannot redeclare User::saveWorkOut() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 858
+[30-Jan-2018 12:07:18 UTC] PHP Fatal error:  Cannot redeclare User::dietPlanStepSecoundRight() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 970
+[30-Jan-2018 12:07:20 UTC] PHP Fatal error:  Cannot redeclare User::dietPlanStepSecoundRight() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 970
+[30-Jan-2018 12:16:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 978
+[30-Jan-2018 12:16:26 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 978
+[30-Jan-2018 12:16:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 978
+[30-Jan-2018 12:17:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 980
+[30-Jan-2018 12:17:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 980
+[30-Jan-2018 12:17:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 980
+[30-Jan-2018 12:18:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1024
+[30-Jan-2018 12:18:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1024
+[30-Jan-2018 12:18:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1024
+[30-Jan-2018 12:18:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 843
+[30-Jan-2018 15:02:02 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 854
+[30-Jan-2018 15:02:05 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 854
+[30-Jan-2018 15:02:07 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 854
+[31-Jan-2018 12:02:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan.php on line 9
+[31-Jan-2018 12:53:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 579
+[31-Jan-2018 13:19:19 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 113
+[31-Jan-2018 13:20:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 113
+[31-Jan-2018 13:20:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 113
+[31-Jan-2018 14:26:38 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/all_diet_plan.php on line 12
+[31-Jan-2018 14:29:26 UTC] PHP Fatal error:  Call to undefined method Developer_model::get_result() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 648
+[01-Feb-2018 06:38:32 UTC] PHP Parse error:  syntax error, unexpected '',2]'' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 146
+[01-Feb-2018 06:38:34 UTC] PHP Parse error:  syntax error, unexpected '',2]'' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 146
+[01-Feb-2018 07:24:11 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 120
+[01-Feb-2018 07:41:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 95
+[01-Feb-2018 07:41:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 128
+[01-Feb-2018 07:41:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:42:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:44:23 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:44:27 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:45:20 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:46:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:46:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:46:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:46:40 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 172
+[01-Feb-2018 07:50:05 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 116
+[01-Feb-2018 07:53:12 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 110
+[01-Feb-2018 07:53:22 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 110
+[01-Feb-2018 07:54:37 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 110
+[01-Feb-2018 07:54:46 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 110
+[01-Feb-2018 08:32:33 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 142
+[03-Feb-2018 14:55:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 720
+[03-Feb-2018 14:55:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 720
+[05-Feb-2018 07:02:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 591
+[05-Feb-2018 07:06:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 513
+[05-Feb-2018 07:06:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 513
+[05-Feb-2018 08:06:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 657
+[05-Feb-2018 08:06:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 657
+[05-Feb-2018 08:07:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 657
+[05-Feb-2018 08:09:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 08:10:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 08:10:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 08:11:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 08:11:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 08:11:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 659
+[05-Feb-2018 09:45:24 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 09:46:44 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 09:49:00 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 09:49:22 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 10:09:45 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 10:28:28 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 10:28:32 UTC] PHP Fatal error:  Cannot redeclare Api::create_diet_plan_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 684
+[05-Feb-2018 13:51:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1106
+[05-Feb-2018 14:40:35 UTC] PHP Parse error:  syntax error, unexpected ''id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 833
+[05-Feb-2018 14:41:33 UTC] PHP Parse error:  syntax error, unexpected ''id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 833
+[05-Feb-2018 14:43:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 304
+[06-Feb-2018 13:50:28 UTC] PHP Parse error:  syntax error, unexpected 'validation_errors' (T_STRING) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 310
+[06-Feb-2018 13:50:30 UTC] PHP Parse error:  syntax error, unexpected 'validation_errors' (T_STRING) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 310
+[07-Feb-2018 11:28:48 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:49 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:50 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:51 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:51 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:54 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:28:59 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:01 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:01 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:02 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:02 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:02 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:03 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:05 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:06 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:06 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:06 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:11 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:15 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:21 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:27 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:30 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:33 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:29:36 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:47:32 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 702
+[07-Feb-2018 11:47:35 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 702
+[07-Feb-2018 11:49:07 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 702
+[07-Feb-2018 11:49:09 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:49:12 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:49:51 UTC] PHP Parse error:  syntax error, unexpected ''pl' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 282
+[07-Feb-2018 11:49:52 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:49:53 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:49:55 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:49:58 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 703
+[07-Feb-2018 11:53:44 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:54:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 574
+[07-Feb-2018 11:55:22 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:55:23 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 11:55:24 UTC] PHP Fatal error:  Cannot redeclare Developer_model::get_post_details() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 694
+[07-Feb-2018 12:06:36 UTC] PHP Fatal error:  Call to undefined method Api_model::get_recipe_blog_imagesAPi() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 363
+[07-Feb-2018 12:19:06 UTC] PHP Fatal error:  Call to undefined method Api_model::get_recipe_blog_imagesAPi() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 363
+[07-Feb-2018 12:21:48 UTC] PHP Fatal error:  Call to undefined method Api_model::get_recipe_blog_imagesAPi() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 363
+[08-Feb-2018 13:45:18 UTC] PHP Parse error:  syntax error, unexpected '$lastRecord' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/index.php on line 99
+[08-Feb-2018 13:45:20 UTC] PHP Parse error:  syntax error, unexpected '$lastRecord' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/index.php on line 99
+[08-Feb-2018 13:45:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/index.php on line 99
+[08-Feb-2018 13:45:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/index.php on line 99
+[09-Feb-2018 11:23:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 933
+[09-Feb-2018 11:53:38 UTC] PHP Fatal error:  Cannot redeclare Api::check_password_opt_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 969
+[09-Feb-2018 11:53:40 UTC] PHP Fatal error:  Cannot redeclare Api::check_password_opt_post() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 969
+[14-Feb-2018 07:43:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 799
+[14-Feb-2018 07:43:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 799
+[14-Feb-2018 11:15:53 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 398
+[14-Feb-2018 11:39:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 304
+[14-Feb-2018 12:48:41 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getFilesType() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 16
+[14-Feb-2018 12:49:04 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getFilesType() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 16
+[14-Feb-2018 12:50:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 2
+[14-Feb-2018 12:50:23 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getFilesType() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 29
+[14-Feb-2018 12:50:25 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getFilesType() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 29
+[14-Feb-2018 12:52:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 12:52:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 13:15:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 570
+[14-Feb-2018 13:25:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 13:26:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 13:27:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 13:27:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 117
+[14-Feb-2018 13:30:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 163
+[14-Feb-2018 13:30:43 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 163
+[14-Feb-2018 13:36:35 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getFilesType() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/post_details.php on line 35
+[15-Feb-2018 08:21:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:21:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:21:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:21:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:21:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:39 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 08:22:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 42
+[15-Feb-2018 09:42:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 115
+[15-Feb-2018 09:42:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 115
+[15-Feb-2018 10:01:18 UTC] PHP Fatal error:  Call to undefined method Api::last_query() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 343
+[15-Feb-2018 10:01:30 UTC] PHP Fatal error:  Call to undefined method Api::last_query() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 343
+[15-Feb-2018 14:35:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 852
+[15-Feb-2018 14:36:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 852
+[16-Feb-2018 13:41:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 60
+[16-Feb-2018 13:41:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 60
+[16-Feb-2018 13:43:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 60
+[16-Feb-2018 14:08:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 91
+[16-Feb-2018 14:36:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 102
+[16-Feb-2018 14:37:01 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 102
+[16-Feb-2018 14:37:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 102
+[16-Feb-2018 14:37:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 102
+[16-Feb-2018 14:42:23 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 177
+[16-Feb-2018 14:42:29 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 177
+[16-Feb-2018 14:42:33 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 177
+[16-Feb-2018 14:42:37 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customerDetails.php on line 177
+[17-Feb-2018 07:40:08 UTC] PHP Parse error:  syntax error, unexpected '$res_data' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customer.php on line 124
+[17-Feb-2018 07:40:09 UTC] PHP Parse error:  syntax error, unexpected '$res_data' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/customer/customer.php on line 124
+[19-Feb-2018 11:22:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/addPlanCategory.php on line 46
+[21-Feb-2018 20:14:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16128 bytes) in /home/rudiment/public_html/rokApe/dev/system/libraries/Image_lib.php on line 1463
+[28-Feb-2018 14:00:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:00:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:00:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:00:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:00:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:00:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:01:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:01:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:01:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[28-Feb-2018 14:01:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 725
+[01-Mar-2018 11:25:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 398
+[01-Mar-2018 12:55:37 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/ServicePlan.php on line 300
+[01-Mar-2018 13:02:01 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/ServicePlan.php on line 286
+[01-Mar-2018 13:09:48 UTC] PHP Parse error:  syntax error, unexpected ''user_i' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/ServicePlan.php on line 293
+[01-Mar-2018 13:53:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/workout_exercise.php on line 22
+[01-Mar-2018 13:53:48 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/workout_exercise.php on line 22
+[01-Mar-2018 14:13:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/add_workout_exercise.php on line 34
+[01-Mar-2018 14:13:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/add_workout_exercise.php on line 34
+[01-Mar-2018 14:13:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/add_workout_exercise.php on line 34
+[03-Mar-2018 07:38:24 UTC] PHP Fatal error:  Call to undefined function clear_cache() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/ServicePlan.php on line 6
+[05-Mar-2018 07:22:04 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 797
+[05-Mar-2018 07:22:07 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 797
+[05-Mar-2018 07:22:11 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 797
+[05-Mar-2018 07:23:03 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 797
+[05-Mar-2018 07:24:10 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 798
+[05-Mar-2018 07:25:11 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_exercise() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 798
+[05-Mar-2018 08:31:43 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1030
+[05-Mar-2018 08:32:43 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1030
+[05-Mar-2018 09:16:13 UTC] PHP Fatal error:  Call to undefined method User::common_model() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1031
+[05-Mar-2018 10:00:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 571
+[05-Mar-2018 10:31:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 801
+[05-Mar-2018 10:31:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 801
+[05-Mar-2018 11:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 571
+[12-Mar-2018 10:47:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:48:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:50:36 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:50:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:51:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 10:52:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 41
+[12-Mar-2018 13:21:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 13:21:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 13:21:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 13:21:08 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 13:21:10 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 13:21:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_secound.php on line 19
+[12-Mar-2018 14:06:21 UTC] PHP Fatal error:  Call to undefined function emtpy() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/user_result.php on line 78
+[12-Mar-2018 14:17:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 677
+[12-Mar-2018 14:18:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 677
+[12-Mar-2018 14:18:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 677
+[12-Mar-2018 14:18:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 678
+[12-Mar-2018 14:42:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1125
+[13-Mar-2018 10:23:46 UTC] PHP Parse error:  syntax error, unexpected '' Min'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 62
+[13-Mar-2018 10:24:47 UTC] PHP Parse error:  syntax error, unexpected '' Min'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 92
+[13-Mar-2018 10:24:50 UTC] PHP Parse error:  syntax error, unexpected '' Min'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 92
+[13-Mar-2018 10:41:51 UTC] PHP Parse error:  syntax error, unexpected '' sec'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 74
+[15-Mar-2018 12:47:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 34
+[15-Mar-2018 12:56:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_header.php on line 172
+[15-Mar-2018 13:12:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 660
+[15-Mar-2018 13:13:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 660
+[15-Mar-2018 13:53:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 825
+[15-Mar-2018 13:53:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1240
+[15-Mar-2018 13:53:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1240
+[15-Mar-2018 13:53:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1240
+[15-Mar-2018 13:53:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1240
+[15-Mar-2018 13:54:30 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1249
+[15-Mar-2018 13:54:31 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1249
+[15-Mar-2018 13:56:13 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1249
+[15-Mar-2018 13:56:14 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1249
+[15-Mar-2018 13:56:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[15-Mar-2018 14:04:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[19-Mar-2018 10:37:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[22-Mar-2018 09:59:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrics_tracker.php on line 76
+[22-Mar-2018 11:35:38 UTC] PHP Warning:  Unterminated comment starting line 302 in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 302
+[22-Mar-2018 11:35:38 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 302
+[22-Mar-2018 11:49:47 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrics_tracker.php on line 64
+[22-Mar-2018 12:42:43 UTC] PHP Fatal error:  Call to undefined function getStartAndEndDate() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1406
+[22-Mar-2018 14:08:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 212
+[22-Mar-2018 14:08:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 212
+[22-Mar-2018 14:09:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:09:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:09:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:09:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:09:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:11:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[22-Mar-2018 14:11:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[23-Mar-2018 08:11:06 UTC] PHP Parse error:  syntax error, unexpected ''full_path' => base_url().'ass', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1631
+[23-Mar-2018 11:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 381
+[23-Mar-2018 11:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 795
+[23-Mar-2018 13:19:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 820
+[23-Mar-2018 13:29:46 UTC] PHP Parse error:  syntax error, unexpected '$exRow' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 739
+[23-Mar-2018 13:29:47 UTC] PHP Parse error:  syntax error, unexpected '$exRow' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 739
+[23-Mar-2018 13:31:04 UTC] PHP Parse error:  syntax error, unexpected '$exRow' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 739
+[23-Mar-2018 13:31:32 UTC] PHP Parse error:  syntax error, unexpected '$exRow' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 739
+[23-Mar-2018 13:31:33 UTC] PHP Parse error:  syntax error, unexpected '$exRow' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 739
+[23-Mar-2018 13:51:31 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 884
+[26-Mar-2018 06:07:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/superadmin/servicePlan/add_workout_exercise.php on line 100
+[26-Mar-2018 06:21:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 133
+[26-Mar-2018 06:21:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 133
+[26-Mar-2018 06:21:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 133
+[26-Mar-2018 06:21:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 133
+[26-Mar-2018 06:23:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 131
+[26-Mar-2018 06:29:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65536000 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 60
+[26-Mar-2018 06:29:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 61603840 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 59
+[26-Mar-2018 06:30:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65536000 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 60
+[26-Mar-2018 06:30:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 61603840 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 59
+[26-Mar-2018 06:30:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65536000 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 60
+[26-Mar-2018 06:30:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65536000 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 60
+[26-Mar-2018 06:30:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 61603840 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 59
+[26-Mar-2018 06:30:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 61603840 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 59
+[26-Mar-2018 06:30:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65536000 bytes) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/create_workout_plan_third.php on line 60
+[26-Mar-2018 07:02:30 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 84
+[26-Mar-2018 07:19:22 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 100
+[26-Mar-2018 07:54:57 UTC] PHP Fatal error:  Call to undefined method Common_model::getWorkOutPlanDayDetails() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1271
+[26-Mar-2018 07:55:16 UTC] PHP Fatal error:  Call to undefined method Common_model::getWorkOutPlanDayDetails() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1271
+[26-Mar-2018 08:15:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/editWorkPlanEx.php on line 33
+[26-Mar-2018 08:15:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/editWorkPlanEx.php on line 33
+[26-Mar-2018 12:18:24 UTC] PHP Fatal error:  Cannot redeclare User::addNewWorkOutEx() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1663
+[26-Mar-2018 13:05:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 161
+[26-Mar-2018 13:06:05 UTC] PHP Parse error:  syntax error, unexpected '' minuts'' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 163
+[26-Mar-2018 13:12:44 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 168
+[26-Mar-2018 13:12:45 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 168
+[26-Mar-2018 14:35:31 UTC] PHP Parse error:  syntax error, unexpected ''</th>'' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 181
+[27-Mar-2018 06:46:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:47:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:47:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:47:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:48:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:50:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:51:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:53:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 06:54:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1451
+[27-Mar-2018 07:02:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:04:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1534
+[27-Mar-2018 07:46:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1636
+[27-Mar-2018 07:50:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[27-Mar-2018 07:50:45 UTC] PHP Parse error:  syntax error, unexpected '$planDetails' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1657
+[27-Mar-2018 07:50:46 UTC] PHP Parse error:  syntax error, unexpected '$planDetails' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1657
+[27-Mar-2018 07:56:31 UTC] PHP Fatal error:  Call to undefined method Api_model::getWorkOutPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1594
+[27-Mar-2018 07:56:32 UTC] PHP Fatal error:  Call to undefined method Api_model::getWorkOutPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1594
+[27-Mar-2018 07:58:28 UTC] PHP Fatal error:  Call to undefined method Api_model::getWorkOutPlanDayDetails() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1594
+[27-Mar-2018 08:05:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[27-Mar-2018 08:24:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 569
+[27-Mar-2018 08:24:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1636
+[27-Mar-2018 08:24:45 UTC] PHP Fatal error:  Call to undefined method Api_model::getDietPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1725
+[27-Mar-2018 08:24:46 UTC] PHP Fatal error:  Call to undefined method Api_model::getDietPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1725
+[27-Mar-2018 08:26:48 UTC] PHP Fatal error:  Call to undefined method Api_model::getDietPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1725
+[27-Mar-2018 08:26:49 UTC] PHP Fatal error:  Call to undefined method Api_model::getDietPlanDay() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1725
+[27-Mar-2018 09:50:37 UTC] PHP Fatal error:  Call to undefined method Api::input() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1775
+[27-Mar-2018 09:51:13 UTC] PHP Fatal error:  Call to undefined method Api::input() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1775
+[27-Mar-2018 09:54:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1096
+[27-Mar-2018 10:31:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[28-Mar-2018 12:38:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[29-Mar-2018 06:16:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 247
+[29-Mar-2018 08:09:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 20
+[29-Mar-2018 08:18:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/workout_plan_data.php on line 155
+[29-Mar-2018 13:58:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2154
+[29-Mar-2018 14:01:01 UTC] PHP Parse error:  syntax error, unexpected ''exercises'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1676
+[29-Mar-2018 14:01:02 UTC] PHP Parse error:  syntax error, unexpected ''exercises'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1676
+[29-Mar-2018 14:01:03 UTC] PHP Parse error:  syntax error, unexpected ''exercises'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1676
+[30-Mar-2018 10:19:51 UTC] PHP Fatal error:  Call to undefined method Developer_model::getSubadmin() in /home/rudiment/public_html/rokApe/dev/application/controllers/superadmin/Subadmin.php on line 23
+[30-Mar-2018 12:32:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 17
+[30-Mar-2018 12:33:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 17
+[30-Mar-2018 12:33:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 17
+[30-Mar-2018 12:33:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 17
+[30-Mar-2018 12:34:05 UTC] PHP Fatal error:  Call to undefined function redirct() in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 19
+[30-Mar-2018 12:34:06 UTC] PHP Fatal error:  Call to undefined function redirct() in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 19
+[30-Mar-2018 13:10:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 563
+[30-Mar-2018 13:10:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 563
+[30-Mar-2018 13:14:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 448
+[30-Mar-2018 13:14:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 448
+[30-Mar-2018 13:14:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 448
+[30-Mar-2018 13:14:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 449
+[30-Mar-2018 13:14:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 449
+[30-Mar-2018 13:14:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 449
+[30-Mar-2018 13:14:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 449
+[30-Mar-2018 13:41:40 UTC] PHP Fatal error:  Call to undefined method CI_Input::input() in /home/rudiment/public_html/rokApe/dev/application/views/templates/superadmin_header.php on line 19
+[30-Mar-2018 13:58:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1633
+[31-Mar-2018 05:36:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/ApiWithFile.php on line 589
+[31-Mar-2018 07:40:51 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2207
+[31-Mar-2018 07:43:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[31-Mar-2018 07:45:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2154
+[31-Mar-2018 07:53:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1379
+[31-Mar-2018 07:53:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 570
+[31-Mar-2018 07:53:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1096
+[31-Mar-2018 07:56:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1096
+[31-Mar-2018 07:57:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 570
+[31-Mar-2018 07:57:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1379
+[04-Apr-2018 06:47:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 33
+[04-Apr-2018 06:47:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 33
+[04-Apr-2018 06:52:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 33
+[04-Apr-2018 07:11:27 UTC] PHP Fatal error:  Call to undefined function arary() in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 60
+[04-Apr-2018 09:49:46 UTC] PHP Fatal error:  Cannot redeclare Chat::index() in /home/rudiment/public_html/rokApe/dev/application/controllers/Chat.php on line 78
+[04-Apr-2018 09:58:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/Chat.php on line 15
+[04-Apr-2018 10:18:35 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/rudiment/public_html/rokApe/dev/application/helpers/dev_helper.php on line 101
+[04-Apr-2018 10:19:01 UTC] PHP Fatal error:  Call to undefined function get_admin_chat_user_id() in /home/rudiment/public_html/rokApe/dev/application/controllers/Chat.php on line 42
+[04-Apr-2018 10:19:03 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/rudiment/public_html/rokApe/dev/application/helpers/dev_helper.php on line 101
+[04-Apr-2018 10:19:05 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/rudiment/public_html/rokApe/dev/application/helpers/dev_helper.php on line 101
+[04-Apr-2018 14:04:44 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:45 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:47 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:48 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:50 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:52 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:53 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:55 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[04-Apr-2018 14:04:58 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 07:18:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2626
+[05-Apr-2018 07:18:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2626
+[05-Apr-2018 07:45:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[05-Apr-2018 07:47:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[05-Apr-2018 07:48:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1631
+[05-Apr-2018 08:11:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1631
+[05-Apr-2018 08:23:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1086
+[05-Apr-2018 08:23:27 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2518
+[05-Apr-2018 09:32:16 UTC] PHP Parse error:  syntax error, unexpected ''friday' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1873
+[05-Apr-2018 09:56:13 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:56:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:56:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:56:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:56:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:03 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:16 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 09:57:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 238
+[05-Apr-2018 11:16:02 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:16:07 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:32 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:33 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:38 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:38 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:38 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:44 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:45 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:19:46 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:20:25 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:20:26 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 11:20:29 UTC] PHP Parse error:  syntax error, unexpected '$dayRecords' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Home.php on line 40
+[05-Apr-2018 13:48:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[05-Apr-2018 13:48:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 211
+[06-Apr-2018 08:16:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 08:16:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 08:16:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 08:16:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 08:16:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 08:18:41 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:43 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:43 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:45 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:46 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:47 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:47 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:18:49 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:19:00 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 946
+[06-Apr-2018 08:19:04 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 588
+[06-Apr-2018 08:27:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1629
+[06-Apr-2018 09:35:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 943
+[06-Apr-2018 09:35:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 943
+[06-Apr-2018 10:41:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 10:41:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 10:42:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 10:42:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2306
+[06-Apr-2018 10:43:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 570
+[06-Apr-2018 10:59:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1631
+[07-Apr-2018 13:21:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2033
+[07-Apr-2018 13:21:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2033
+[07-Apr-2018 13:22:25 UTC] PHP Warning:  Unterminated comment starting line 2571 in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2571
+[07-Apr-2018 13:22:25 UTC] PHP Parse error:  syntax error, unexpected '$hoursData' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2620
+[10-Apr-2018 06:48:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1086
+[13-Apr-2018 14:36:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1086
+[13-Apr-2018 14:36:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2104
+[14-Apr-2018 08:22:19 UTC] PHP Fatal error:  Cannot redeclare Api_model::getCategoryItem() in /home/rudiment/public_html/rokApe/dev/application/models/Api_model.php on line 272
+[14-Apr-2018 08:22:52 UTC] PHP Fatal error:  Cannot redeclare Api_model::getCategoryItem() in /home/rudiment/public_html/rokApe/dev/application/models/Api_model.php on line 272
+[14-Apr-2018 08:24:30 UTC] PHP Fatal error:  Cannot redeclare Api_model::getCategoryItem() in /home/rudiment/public_html/rokApe/dev/application/models/Api_model.php on line 272
+[14-Apr-2018 08:24:30 UTC] PHP Fatal error:  Cannot redeclare Api_model::getCategoryItem() in /home/rudiment/public_html/rokApe/dev/application/models/Api_model.php on line 272
+[14-Apr-2018 08:35:47 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 08:35:48 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 08:36:05 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 08:36:07 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 08:36:08 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 08:36:09 UTC] PHP Fatal error:  Call to undefined method Api::getServiceItemStepSecond() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 823
+[14-Apr-2018 11:55:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1631
+[16-Apr-2018 07:31:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1074
+[20-Apr-2018 09:57:57 UTC] PHP Fatal error:  Call to undefined method Api_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 538
+[20-Apr-2018 10:09:51 UTC] PHP Fatal error:  Call to undefined method Api_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 538
+[20-Apr-2018 10:10:33 UTC] PHP Fatal error:  Call to undefined method Api_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 538
+[20-Apr-2018 10:18:21 UTC] PHP Fatal error:  Call to undefined method Api_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 538
+[20-Apr-2018 10:21:04 UTC] PHP Fatal error:  Call to undefined method Api_model::getUserSeting() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 538
+[20-Apr-2018 13:30:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 944
+[20-Apr-2018 13:31:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 944
+[20-Apr-2018 13:32:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 944
+[24-Apr-2018 12:31:43 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:31:57 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:31:58 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:00 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:23 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:24 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:25 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:26 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:32:54 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:33:15 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:33:16 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:33:17 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:33:20 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 12:33:21 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 199
+[24-Apr-2018 13:05:50 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:05:51 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:05:52 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:05:52 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:05:53 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:06:11 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:06:12 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:06:13 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 13:06:14 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 92
+[24-Apr-2018 15:50:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 840
+[24-Apr-2018 15:50:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 840
+[24-Apr-2018 15:51:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 768
+[24-Apr-2018 17:52:47 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 490
+[24-Apr-2018 17:52:49 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 490
+[24-Apr-2018 17:53:17 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 490
+[25-Apr-2018 15:43:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2872
+[27-Apr-2018 16:00:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2597
+[27-Apr-2018 16:01:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2329
+[30-Apr-2018 11:28:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Api_model::get_row() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1656
+[30-Apr-2018 11:28:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method Api_model::get_row() in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1656
+[30-Apr-2018 11:28:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''Inva' (T_ENCAPSED_AND_WHITESPACE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2108
+[30-Apr-2018 11:45:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2870
+[30-Apr-2018 12:03:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 288
+[07-May-2018 17:28:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1055
+[07-May-2018 17:28:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1055
+[07-May-2018 17:29:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1055
+[07-May-2018 17:29:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1055
+[07-May-2018 17:29:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1055
+[07-May-2018 19:22:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/goal_set.php on line 12
+[07-May-2018 19:22:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/goal_set.php on line 12
+[07-May-2018 19:22:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/goal_set.php on line 12
+[11-May-2018 11:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2487
+[11-May-2018 11:50:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2487
+[16-May-2018 13:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 833
+[16-May-2018 13:36:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '' = '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 465
+[16-May-2018 15:00:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 459
+[16-May-2018 15:01:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 459
+[16-May-2018 15:03:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 458
+[16-May-2018 15:04:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 458
+[16-May-2018 15:04:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 458
+[16-May-2018 15:04:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 458
+[16-May-2018 15:04:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 458
+[16-May-2018 15:10:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:14:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:14:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:15:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 460
+[16-May-2018 15:19:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 461
+[16-May-2018 15:19:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 461
+[16-May-2018 15:20:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 461
+[16-May-2018 15:20:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 461
+[16-May-2018 15:20:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 461
+[16-May-2018 19:09:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 212
+[16-May-2018 19:09:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 212
+[16-May-2018 19:13:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 228
+[16-May-2018 19:13:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 228
+[16-May-2018 19:15:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 228
+[16-May-2018 19:15:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 228
+[16-May-2018 19:15:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 228
+[16-May-2018 19:20:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/templates/frontend_left_bar.php on line 262
+[16-May-2018 19:39:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 589
+[17-May-2018 13:31:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$feetN' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 144
+[17-May-2018 13:31:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$feetN' (T_VARIABLE), expecting ',' or ';' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 144
+[17-May-2018 14:00:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 282
+[17-May-2018 14:00:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/views/frontend/metrix_tracker_data.php on line 282
+[17-May-2018 16:11:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 372
+[18-May-2018 18:51:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 376
+[18-May-2018 18:55:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 376
+[18-May-2018 19:40:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 504
+[18-May-2018 19:40:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 504
+[19-May-2018 16:52:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/addBlog.php on line 61
+[19-May-2018 16:52:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/addBlog.php on line 61
+[19-May-2018 20:19:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '.' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1389
+[21-May-2018 11:16:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''pre_'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1397
+[21-May-2018 11:16:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''pre_'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1397
+[21-May-2018 11:34:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '.' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1400
+[21-May-2018 12:12:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Developer_model::getDietPlanDay() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1076
+[21-May-2018 12:13:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 63
+[21-May-2018 12:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/diet_plan_data.php on line 63
+[21-May-2018 13:13:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 871
+[21-May-2018 13:13:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 871
+[21-May-2018 13:23:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 875
+[21-May-2018 13:23:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 875
+[21-May-2018 18:01:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2106
+[21-May-2018 18:01:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'e', expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2873
+[21-May-2018 18:30:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''Post details ' (T_ENCAPSED_AND_WHITESPACE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1339
+[21-May-2018 20:00:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 291
+[21-May-2018 20:03:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2858
+[21-May-2018 20:05:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''item_title' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2342
+[21-May-2018 20:05:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ' = 'Re' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1610
+[21-May-2018 20:08:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1610
+[21-May-2018 20:11:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1331
+[24-May-2018 19:36:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 291
+[24-May-2018 19:39:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1611
+[24-May-2018 19:43:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2596
+[24-May-2018 19:50:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 565
+[24-May-2018 19:52:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1611
+[24-May-2018 19:58:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2861
+[25-May-2018 13:14:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 347
+[25-May-2018 13:14:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 347
+[25-May-2018 17:18:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/getFollowingUser.php on line 9
+[25-May-2018 17:18:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/getFollowingUser.php on line 9
+[25-May-2018 17:18:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/getFollowingUser.php on line 10
+[25-May-2018 17:18:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/getFollowingUser.php on line 10
+[25-May-2018 17:19:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/getFollowingUser.php on line 10
+[25-May-2018 17:44:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 35
+[25-May-2018 17:44:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/show_user_plan.php on line 35
+[25-May-2018 18:31:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/result_listing.php on line 174
+[25-May-2018 18:31:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/result_listing.php on line 174
+[25-May-2018 18:31:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rudiment/public_html/rokApe/dev/application/views/frontend/result_listing.php on line 174
+[01-Jun-2018 14:52:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$exercise['calories']        =' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1871
+[01-Jun-2018 14:59:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''user' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2597
+[01-Jun-2018 15:01:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1612
+[01-Jun-2018 15:03:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1078
+[01-Jun-2018 15:24:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1078
+[01-Jun-2018 15:28:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 565
+[01-Jun-2018 16:04:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2589
+[01-Jun-2018 16:06:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2103
+[01-Jun-2018 16:29:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 376
+[01-Jun-2018 16:42:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1078
+[01-Jun-2018 17:13:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 291
+[01-Jun-2018 17:15:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1612
+[01-Jun-2018 17:17:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''end date' (T_ENCAPSED_AND_WHITESPACE) in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 2338
+[12-Jun-2018 17:31:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''pl' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 792
+[14-Jun-2018 18:42:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method stdClass::strtolower() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 2370
+[14-Jun-2018 19:07:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 301
+[14-Jun-2018 19:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 2140
+[14-Jun-2018 19:44:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 301
+[15-Jun-2018 15:15:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:20:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1891
+[15-Jun-2018 15:20:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:21:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1949
+[15-Jun-2018 15:34:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''uploadRe' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 589
+[15-Jun-2018 16:00:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Developer_model::get_result() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/edit_diet_plan.php on line 28
+[15-Jun-2018 16:00:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Developer_model::get_result() in /home/rudiment/public_html/rokApe/dev/application/views/frontend/edit_diet_plan.php on line 28
+[15-Jun-2018 16:09:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Common_model::get_diat_plan_edit_data() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1787
+[15-Jun-2018 16:09:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Common_model::get_diat_plan_edit_data() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1787
+[15-Jun-2018 16:40:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Developer_model::get_diat_plan_edit_data() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1787
+[15-Jun-2018 16:40:26 Asia/Kolkata] PHP Fatal error:  Call to undefined method Developer_model::get_diat_plan_edit_data() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1787
+[15-Jun-2018 16:41:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Developer_model::get_diat_plan_edit_data() in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1787
+[15-Jun-2018 17:00:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 2495
+[15-Jun-2018 17:00:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 2495
+[15-Jun-2018 18:37:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 1387
+[20-Jun-2018 13:04:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function str_pos() in /home/rudiment/public_html/rokApe/dev/application/models/Developer_model.php on line 504
+[21-Jun-2018 17:58:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rudiment/public_html/rokApe/dev/application/views/frontend/edit_workout_plan.php on line 189
+[02-Jul-2018 19:08:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''plan_id']     = $workout_id;' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 835
+[11-Jul-2018 15:40:07 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1350
+[11-Jul-2018 15:40:11 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1350
+[11-Jul-2018 15:41:10 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1350
+[11-Jul-2018 15:41:13 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1350
+[11-Jul-2018 15:41:30 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/rudiment/public_html/rokApe/dev/application/controllers/User.php on line 1350
+[11-Jul-2018 17:17:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 1604
+[11-Jul-2018 17:24:14 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 899
+[11-Jul-2018 17:24:16 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 899
+[11-Jul-2018 17:24:17 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 899
+[11-Jul-2018 17:24:20 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/rudiment/public_html/rokApe/dev/application/controllers/Api.php on line 899
